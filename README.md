@@ -17,9 +17,9 @@ python logger.py
 * Then Let the program run while you type some text...
 * When u want to stop keylogger, just exit the terminal..
 
->> you will find a new file in ur project named keyLog.txt, which containes all your key strikes...
+> you will find a new file in ur project named keyLog.txt, which containes all your key strikes...
 
-But now the problem comes that you are unable to read the text..
+## But now the problem comes that you are unable to read the text..
 
 To read the text you need to use the `logReader.py` file by running it in terminal as:
 ```bash
